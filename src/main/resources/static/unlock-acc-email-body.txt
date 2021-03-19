@@ -1,0 +1,16 @@
+Hi {FNAME} {LNAME},
+<br/>
+<br/>
+<br/>
+Welcome to SwaNirmit family, Your Registration is almost completed. Please Use
+below  details to unlock your account. <br/>
+	
+		Temporary Password : {TEMP-PWD} <br/>
+<br/>
+<a href = 'http://app.swanirmit.in:8080/13JRTPM2/swagger-ui.html#/ctrl-users-acc/UnlockAccount1UsingPUT?eMail={EMAIL}'>
+		Click Here to Unlock Your Account. <a/> <br/>
+<br/>
+		
+Thanks And Regards.<br/>
+SwaNirmit Technologies Team.<br/>
+		

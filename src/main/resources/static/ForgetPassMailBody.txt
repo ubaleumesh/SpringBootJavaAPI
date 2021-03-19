@@ -1,0 +1,17 @@
+Hi {FNAME} {LNAME},
+<br/>
+<br/>
+<br/>
+Welcome to SwaNirmit family, We Received your forget password request. Please find your password as as below <br/>
+	
+		Your Password : {CUR-PWD} <br/>
+<br/>
+
+<br/>
+<a href = 'http://app.swanirmit.in:8080/13JRTPM2/swagger-ui.html#/ctrl-users-acc/userSignInUsingPOST?eMail={EMAIL}'>
+		Click Here to Login Your Account. <a/> <br/>
+<br/>
+	<br/>	
+Thanks And Regards.<br/>
+SwaNirmit Technologies Team.<br/>
+		
